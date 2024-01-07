@@ -4,7 +4,7 @@ Code Complete 2nd Edition
 
 프로그래밍 책을 읽으면서 내용 정리.
 
-1. [파이토치 딥러닝 프로그래밍]()
+1. [파이토치 딥러닝 프로그래밍](/pytorchdl2/)
 - [레포]
 - 책: [파이토치 딥러닝 프로그래밍](https://wikibook.co.kr/pytorchdl2/)
  
